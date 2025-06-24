@@ -1,0 +1,6 @@
+ESP32Deauther	KEYWORD1
+begin	KEYWORD2
+deauthNetwork	KEYWORD2
+deauthClient	KEYWORD2
+setChannel	KEYWORD2
+stop	KEYWORD2
